@@ -1,9 +1,9 @@
 # Site Settings
 title: CP&G
 tagline: Research Lab
-email: g.a.travaglino@kent.ac.uk
+email: giovanni.travaglino@rhul.ac.uk
 description: >
-  The research page of the Cultural Processes & Groups Research Lab at the University of Kent. Research on organized crime, political behavior and culture
+  The research page of the Cultural Processes & Groups Research Lab at Royal Holloway, University of Kent. Research on organized crime, political behavior and culture
 baseurl: ""
 url: "https://gatravaglino.github.io/"
 permalink: pretty

@@ -1,12 +1,12 @@
 ---
 title: Cultural Processes & Groups Lab
-subtitle: School of Psychology, University of Kent
+subtitle: School of Law & Social Sciences, Royal Holloway, University of London
 layout: page
 callouts: home_callouts
 hero_darken: true
 hero_height: is-medium
 hero_link: https://kentpsych.eu.qualtrics.com/jfe/form/SV_2tX2XHOM0uQwJ2R
-hero_link_text: Take part in our research
+#hero_link_text: Take part in our research
 show_sidebar: true
 ---
 

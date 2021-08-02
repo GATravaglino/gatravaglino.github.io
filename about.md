@@ -11,11 +11,11 @@ menubar: example_menu
 
 ## CP&G Lab Director
 
-I joined the [School of Psychology](https://www.kent.ac.uk/psychology/people/3308/travaglino-giovanni) at the University of Kent in 2015 as Assistant Professor of Social and Organizational Psychology. I obtained my PhD under the supervision of Prof. Dominic Abrams and am currently an affiliated member of the Centre for the Study of Group Processes & Intergroup Relations. I have thought two years at the School of Humanities and Social Science at the Chinese University of Hong Kong (Shenzhen). In 2012, I started [Contention](/contention) and since 2015 I co-edit the journal with Dr Benjamin Abrams. 
+I joined the [School of Law & Social Sciences, Department of Law & Criminology](https://www.royalholloway.ac.uk/research-and-teaching/departments-and-schools/law-and-criminology/) at Royal Holloway, University of London in 2021 as Associate Professor of Criminology and Psychology. Previously I held faculty positions at the University of Kent (Assistant Professor of Social & Organisational Psychology) and the Chinese University of Hong Kong, SZ (Assistant Professor of Applied Psychology). I obtained my PhD under the supervision of Prof. Dominic Abrams. In 2012, I founded [Contention](/contention) and since 2015 I co-edit the journal with Dr Benjamin Abrams. 
 
 ### Research
 
-My expertise is in the Social Psychology of Intergroup and Intragroup Processes, including Deviance and Crime, Cultural Psychology, Leadership and Collective Actions. My research has investigated in what circumstances people tend to punish (or forgive) transgressions from group members. Another line of my work has examined how cultural values enable criminal groups to gain legitimacy in society. My research has been funded by the ESRC, the British Academy, and The Royal Society. 
+My expertise is in the Social Psychology of Intergroup and Intragroup Processes, with a specific focus on the nexus among Crime, Culture and Politics. My research has examined in what circumstances people tend to punish (or forgive) transgressions from group members. Another line of my work has examined how cultural values enable criminal groups to gain legitimacy in society. My research has been funded by the ESRC, the British Academy, and The Royal Society. 
 
 ### Selected Publications
 

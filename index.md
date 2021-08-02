@@ -16,7 +16,7 @@ In the **Cultural Processes and Groups** (CP&G) lab, at the [School of Law & Soc
 **Culture** is a difficult term to define. At its core, it is a process of signification of reality, a cluster of meanings, values and practices shared by people who belong to the same group. **Group** is here used very broadly to indicatea entities as different as nations, organizations or even the nuclear family. 
 
 <p align="center">
-  <img src="/img/home-vitality.jpg" width="500" />
+  <img src="/img/lady-justice.jpg" width="500" />
 </p>
 
 Cultural process and group dynamics influence each other. **Culture** provides individuals with a template of shared symbols that structures their perception and action. **Group dynamics**, that is the arrengements regulating social life and groups' institutional practices, shape how culture materializes and is expressed. Most of our research takes place at the intersection of these two key factors.    

@@ -11,14 +11,14 @@ features:
       icon: fas fa-bullhorn
     - label: Interdisciplinary Journal
       icon: fa-university
-    - label: Published by Berghahn Journal
+    - label: Published by Berghahn Journals
       icon: fas fa-book
 ---
 
 ## Contention
-Contention is the journal co-hosted by the **Cultural Processes and Groups Lab**, at the University of Kent. The journal was first founded in 2012 and it has now reached its eight volume and fifteenth issue. 
+Contention is the journal co-hosted at Royal Holloway, University of London. The journal was first founded in 2012 and it has now reached its its ninth volume and seventeenth issue. 
 
-**Editors**: Dr. Benjamin Abrams (University College London) & Dr. Giovanni A. Travaglino (University of Kent)
+**Editors**: Dr. Benjamin Abrams (University College London) & Dr. Giovanni A. Travaglino (Royal Holloway, University of London)
 
 **Contention** is dedicated to research on social protest, collective action and contentious politics. As a multidisciplinary journal, Contention’s mission is to bridge scholarly divides and promote knowledge exchange across a diverse audience of scholars in the social sciences and humanities. The journal publishes articles by academics and practitioners on topics spanning the full range of social and political contention.
 

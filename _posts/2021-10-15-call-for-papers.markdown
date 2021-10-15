@@ -13,3 +13,7 @@ canonical_url: https://gatravaglino.github.io/contention/2021-10-15-protest-call
 <p align="center">
   <img src="/img/call-crime.png" width="800" />
 </p>
+
+
+For more information about the journal:
+[Contention](https://www.berghahnjournals.com/view/journals/contention/contention-overview.xml)

@@ -39,4 +39,4 @@ Our research focuses on different geographical areas, including Italy, China, th
 We keep a [lab notebook](/notebook/), where we propose analyses of recent topics, summarize research conducted by lab members, and comment on new data. Posts are written either in English or in Italian.
 
 ### Get in Touch
-Undergraduate and postgraduate students and postdoctoral researchers who intend to conduct research in these and related areas are welcome to apply to join or visit the lab by [emailing](mailto:g.a.travaglino@kent.ac.uk) the director. 
+Undergraduate and postgraduate students and postdoctoral researchers who intend to conduct research in these and related areas are welcome to apply to join or visit the lab by [emailing](mailto:giovanni.travaglino@rhul.ac.uk) the director. 
